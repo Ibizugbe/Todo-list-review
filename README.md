@@ -4,13 +4,15 @@
 
 > This software is used to monitor and manage your tasks.
 
-
 ## Built With
 
 - HTML, CSS, javaScript.
 - Frameworks
-- Webpack, webhint, stylelint and eslint. 
+- Webpack, webhint, stylelint and eslint.
 
+## Live Demo
+
+[See webpage here](https://ibizugbe.github.io/Todo-list-vanillaJS/)
 
 ## Authors
 
@@ -19,7 +21,6 @@
 - GitHub: [@githubhandle](https://github.com/Ibizugbe/)
 - Twitter: [@twitterhandle](https://twitter.com/AbrahamIbizugbe)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abraham-ibizugbe-763791115/)
-
 
 ## 🤝 Contributing
 
