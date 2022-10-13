@@ -2,7 +2,7 @@
 
 # To Do List
 
-> This software is used to monitor and manage your tasks.
+> This is a review of my todo list project. The repository was replicated for a code review practice with a coding partner.
 
 ## Built With
 
